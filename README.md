@@ -20,7 +20,7 @@
     <tbody>
         <tr>
             <th rowspan=10>Qualification Round</th>
-            <td>Vestigium</td>
+            <td><a href="./qualification-round/a_vestigium.cpp">Vestigium</a></td>
             <td>1</td>
             <td>Solved</td>
             <td>7</td>
@@ -29,7 +29,7 @@
             <th rowspan=10>Qualified</th>
         </tr>
         <tr>
-            <td rowspan=2>Nesting Depth</td>
+            <td rowspan=2><a href="./qualification-round/b_nesting_depth.java">Nesting Depth</a></td>
             <td>1</td>
             <td>Solved</td>
             <td>5</td>
@@ -41,7 +41,7 @@
             <td>11</td>
         </tr>
         <tr>        
-            <td rowspan=2>Parenting Partnering Returns</td>
+            <td rowspan=2><a href="./qualification-round/c_parenting_partnering_returns.java">Parenting Partnering Returns</a></td>
             <td>1</td>
             <td>Solved</td>
             <td>7</td>
@@ -53,7 +53,7 @@
             <td>12</td>
         </tr>
         <tr>        
-            <td rowspan=3>ESAb ATAd</td>
+            <td rowspan=3><a href="./qualification-round/d_esab_atad.py">ESAb ATAd</a></td>
             <td>1</td>
             <td>Solved</td>
             <td>1</td>
@@ -70,7 +70,7 @@
             <td>16</td>
         </tr>
         <tr>        
-            <td rowspan=2>Indicium</td>
+            <td rowspan=2><a href="./qualification-round/e_indicium.cpp">Indicium</a></td>
             <td>1</td>
             <td>Solved</td>
             <td>7</td>
